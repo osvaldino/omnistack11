@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O BeTheHero é um projeto que conecta pessoas com vontade de ajudar ONGs que publicam casos abertos a receber essa ajuda.
+O BeTheHero é um projeto que conecta pessoas com vontade de ajudar a ONGs que publicam casos abertos a receber essa ajuda.
 
 ---
 
